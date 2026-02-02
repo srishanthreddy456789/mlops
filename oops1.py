@@ -10,5 +10,9 @@ class Employee:
 
 #creating object/instance of class
 sam=Employee()
+
+#print the attributes
 # print(sam.salary)
+
+#call the method
 sam.travel("bangalore")
